@@ -51,12 +51,12 @@
   ellipse(myX, myY, 50, 50);
   fill(mycolor);
   ellipse(myX, myY, 40, 40);
-  ellipse(mouseX, mouseY, 7, 7);
+  ellipse(mouseX, mouseY, 5, 5);
   fill(myColor);
-  ellipse(myX+otherX, myY+otherY, 7, 7);
-   ellipse(myX+a, myY+b, 7, 7);
-    ellipse(myX+c, myY+d, 7, 7);
-     ellipse(myX+e, myY+f, 7, 7);
+  ellipse(myX+otherX, myY+otherY,5, 5);
+   ellipse(myX+a, myY+b, 5, 5);
+    ellipse(myX+c, myY+d, 5, 5);
+     ellipse(myX+e, myY+f, 5, 5);
      
    }
  }   
